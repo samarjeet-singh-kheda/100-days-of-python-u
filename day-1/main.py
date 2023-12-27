@@ -10,11 +10,13 @@ print("a: " + 2)
 
 --> input() function is used to display a prompt and take user input in that function
 
+--> indentation should always start from left most
+
 --> input function always takes input as a string
 
 --> int() & str() is used to convert into integer and string respectively
 
---> len() function is used to calculate length of a string
+--> len() function is used to calculate length of a string, doesn't work on string
 
 --> In python, snake case is preferred
 
