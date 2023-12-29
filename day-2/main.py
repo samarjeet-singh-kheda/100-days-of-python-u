@@ -66,3 +66,6 @@ isWinning = True
 
 print(f"My name is {name}, my score is {score}. Am I winning? {isWinning}") 
 # just like template literal (JS)
+
+
+print(f"Score is {score}")
